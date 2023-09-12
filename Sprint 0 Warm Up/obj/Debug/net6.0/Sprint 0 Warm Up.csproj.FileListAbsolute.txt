@@ -1,0 +1,15 @@
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\bin\Debug\net6.0\Sprint 0 Warm Up.exe
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\bin\Debug\net6.0\Sprint 0 Warm Up.deps.json
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\bin\Debug\net6.0\Sprint 0 Warm Up.runtimeconfig.json
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\bin\Debug\net6.0\Sprint 0 Warm Up.dll
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\bin\Debug\net6.0\Sprint 0 Warm Up.pdb
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.csproj.AssemblyReference.cache
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.AssemblyInfoInputs.cache
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.AssemblyInfo.cs
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.dll
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\refint\Sprint 0 Warm Up.dll
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.pdb
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\Sprint 0 Warm Up.genruntimeconfig.cache
+C:\Users\Gamer\Documents\Desktop\ProgIII\aerialvehicle-AaronSirico-Columbia-master\Sprint 0 Warm Up\obj\Debug\net6.0\ref\Sprint 0 Warm Up.dll
